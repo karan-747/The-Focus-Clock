@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">The Focus Clock</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+    <string name="pomodaro_steps">1.Choose a task: Select a specific task or project you want to work on.\n
+
+2.Set a timer: Set a timer for 25 minutes, which represents one Pomodoro. This time is called a work interval.\n
+
+3.Work on the task: Focus solely on the chosen task during the work interval. Avoid any distractions or interruptions.\n
+
+4.Take a break: Once the timer goes off, take a short break of around 5 minutes. This break is designed to help you relax and recharge.\n
+
+5.Repeat and track: After the break, start another Pomodoro, working on the task again for 25 minutes. After completing four Pomodoros, take a longer break of around 15-30 minutes.\n</string>
+
+
+    <string name="pomodaro_intro">The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s. It is designed to improve focus and productivity by breaking work into intervals, typically 25 minutes in length, called "Pomodoros." The technique follows these basic steps:</string>
+    <string name="pomodaro_about1">The idea behind the Pomodoro Technique is that the timed intervals create a sense of urgency and encourage focused work. The short breaks provide an opportunity to rest and prevent burnout. By using this technique consistently, you can enhance productivity, maintain motivation, and better manage your time.</string>
+
+    <string name="pomodaro_advantages">It\'s worth noting that while the traditional Pomodoro Technique uses fixed time intervals, you can adjust them to suit your needs. Some people find shorter or longer intervals work better for them. This app is made so that it can help you to implement the Pomodoro Technique effectively and enhance your productivity.</string>
+</resources>
