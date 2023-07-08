@@ -5,7 +5,7 @@
 * It's a great companion timer for studying, reading or working.
 * Focus is important for productivity, but rest is equally important too. 
 * Taking breaks between periods of focus improves productivity. 
-* With The Focus Clock, customize your own routines to maximize productivity and have enough rest.
+
 
 ## Special_Features 
 
